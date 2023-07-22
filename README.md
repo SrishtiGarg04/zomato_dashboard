@@ -1,2 +1,4 @@
 # zomato_dashboard
-I developed this dashboard website using Power Bi. to see the website visit https://SrishtiGarg04/
+this is a repository for explaining zomato or codewithharry
+
+
